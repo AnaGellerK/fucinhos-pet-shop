@@ -18,4 +18,4 @@ Utilizei o Power BI como ferramenta para ETL e construção do dashboard.
 
 ## Links
 
-- [Acesse o Dashboard aqui]([https://organo-guitds.vercel.app/](https://app.powerbi.com/view?r=eyJrIjoiZWJkYWEzNTQtZDM0Yi00ZjZjLThjNTUtNGNjNDg0ZWYxNWFiIiwidCI6ImY3OWY0MGQzLWQwNjQtNDRlNi04MDZkLTRlNTM0MjA2ZGI0YSJ9))
+- [Acesse aqui o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWJkYWEzNTQtZDM0Yi00ZjZjLThjNTUtNGNjNDg0ZWYxNWFiIiwidCI6ImY3OWY0MGQzLWQwNjQtNDRlNi04MDZkLTRlNTM0MjA2ZGI0YSJ9)
