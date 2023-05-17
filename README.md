@@ -1,7 +1,7 @@
 # Fucinho's Pet Shop
 
 ## Visão geral
-Este repositório contém o projeto de análise de dados do Fucinho's Pet Shop. O objetivo deste projeto é criar dashboards interativos e informativos no Power BI para visualizar e analisar o faturamento da empresa a partir de diferentes perspectivas.
+Este repositório contém o projeto de análise de dados do Fucinho's Pet Shop. O objetivo deste projeto é um criar dashboard interativo e informativo no Power BI para visualizar e analisar o faturamento da empresa a partir de diferentes perspectivas.
 
 O Fucinho's Pet Shop é uma empresa fictícia especializada em produtos de animais de estimação, oferecendo uma ampla gama de produtos, como alimentos, acessórios e roupas. Com o crescimento contínuo da empresa, é fundamental acompanhar e analisar o desempenho financeiro para tomar decisões estratégicas baseadas em dados concretos.
 
