@@ -5,7 +5,7 @@ Este repositório contém o projeto de análise de dados do Fucinho's Pet Shop. 
 
 O Fucinho's Pet Shop é uma empresa fictícia especializada em produtos de animais de estimação, oferecendo uma ampla gama de produtos, como alimentos, acessórios e roupas. Com o crescimento contínuo da empresa, é fundamental acompanhar e analisar o desempenho financeiro para tomar decisões estratégicas baseadas em dados concretos.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/anageller-k    |
 | -------------  | --- |
 | :sparkles: Nome        | **Business Intelligence no Pet Shop Fucinho's**
 | :label: Tecnologias | Power BI
