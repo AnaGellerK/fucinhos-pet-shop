@@ -12,6 +12,7 @@ O Fucinho's Pet Shop é uma empresa fictícia especializada em produtos de anima
 | :rocket: URL         | https://github.com/AnaGellerK/fucinhos-pet-shop
 
 ![peter-plashkin-F3lBkL_y9KY-unsplash](https://github.com/AnaGellerK/fucinhos-pet-shop/assets/121059249/770addee-e797-4dea-b8fb-974e5f886346vitrinedev)
+photo by [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) on [Unsplash](https://unsplash.com/)
 
 
 ## Conjunto de Dados
