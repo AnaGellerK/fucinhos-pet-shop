@@ -10,7 +10,9 @@ O Fucinho's Pet Shop é uma empresa fictícia especializada em produtos de anima
 | :sparkles: Nome        | **Business Intelligence no Pet Shop Fucinho's**
 | :label: Tecnologias | Power BI
 | :rocket: URL         | https://github.com/AnaGellerK/fucinhos-pet-shop
-| :fire: Desafio     | 
+
+![peter-plashkin-F3lBkL_y9KY-unsplash](https://github.com/AnaGellerK/fucinhos-pet-shop/assets/121059249/770addee-e797-4dea-b8fb-974e5f886346vitrinedev)
+
 
 ## Conjunto de Dados
 O conjunto de dados é formado a partir dos datasets Pet Vendas 2018, Pet Vendas 2019, Pet Vendas 2020, clientes e produtos.
