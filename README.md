@@ -21,7 +21,8 @@ Você pode visualizar o conjunto de dados na pasta "Datasets".
 Utilizei o Power BI como ferramenta para ETL e construção do dashboard.
 
 ## Dashboard
-![Captura de tela 2023-05-16 210841](https://github.com/AnaGellerK/fucinhos-pet-shop/assets/121059249/e79aef92-213e-4008-b517-b960240476c1#vitrinedev)
+![Captura de tela 2023-05-16 210841](https://github.com/AnaGellerK/fucinhos-pet-shop/assets/121059249/e79aef92-213e-4008-b517-b960240476c1)
+
 
 ## Links
 
