@@ -11,8 +11,9 @@ O Fucinho's Pet Shop é uma empresa fictícia especializada em produtos de anima
 | :label: Tecnologias | Power BI
 | :rocket: URL         | https://github.com/AnaGellerK/fucinhos-pet-shop
 
-![peter-plashkin-F3lBkL_y9KY-unsplash](https://github.com/AnaGellerK/fucinhos-pet-shop/assets/121059249/770addee-e797-4dea-b8fb-974e5f886346vitrinedev)
-photo by [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) on [Unsplash](https://unsplash.com/)
+
+![Shop Our Online Store _ Cat Dog   Pet Products _ My Little And Large](https://github.com/AnaGellerK/fucinhos-pet-shop/assets/121059249/8dc80a8b-17e9-43b0-ba95-5cbfde311efa#vitrinedev)
+photo by [Jelly Bean](https://br.pinterest.com/baughan0141/) on [Pinterest](https://br.pinterest.com/)
 
 
 ## Conjunto de Dados
