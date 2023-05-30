@@ -21,7 +21,7 @@ O conjunto de dados é formado a partir dos datasets Pet Vendas 2018, Pet Vendas
 
 Você pode visualizar o conjunto de dados na pasta "Datasets".
 
-## Feramenta 
+## Ferramenta 
 Utilizei o Power BI como ferramenta para ETL e construção do dashboard.
 
 ## Dashboard
